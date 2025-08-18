@@ -33,10 +33,10 @@ For any projects you work on, it's always a best practice to launch a separate e
 
 **To create a virtual environment, execute this command at the root level:**
 ```bash
-conda create -p venv python==3.10
+conda create -p venv python==3.12
 ```
 
-This will create a `venv` folder at the root level and we'll be executing our projects inside this virtual environment itself.
+This will create a `venv` folder at the root level and we'll be executing our projects inside this virtual environment itself. Some basic libraries will automatically be installed when we execute this 'conda create' command
 
 ### Activating the Virtual Environment
 **To switch to venv, execute the command:**
