@@ -1,0 +1,1 @@
+This section contains practice questions related to inbuilt data structures in Python.
